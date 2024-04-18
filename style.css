@@ -9,7 +9,7 @@
             background-color: rgb(255, 242, 198);
         }
         body{
-            background-image: url(./images/카피조우.jpg);
+            background-image: url('./images/카피조우.jpg');
             /*gradient(to left, green, white, green);*/
             background-repeat: repeat;
             background-position: center;
